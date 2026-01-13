@@ -1,3 +1,3 @@
 # Unity-Slippery-Cube-Game
-3D Mobile game
+3D mobile game
 
